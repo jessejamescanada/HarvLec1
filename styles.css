@@ -1,0 +1,40 @@
+h1 {
+			color: blue;
+			text-align: center;
+		}
+
+p {
+	color:purple;
+}
+
+
+/*########*/
+
+div {										/*#div is to divide a section of your website*/
+	background-color: teal;					/*#must use div on the html file in section you want changes*/
+	width: 100px;
+	height: 400;
+}
+
+table {
+	border: 2px solid black;
+	border-collapse: collapse;
+	width: 50%;
+}
+
+th {									/*#For TH and TD I could also use a coma (TH,TD)*/
+	background-color: lightgray;
+	border: 1px solid black;
+	padding: 5px;
+	text-align: center;						/*#since they are the same style properties*/
+}
+
+td {
+	border: 1px solid black;
+	padding: 5px;
+	text-align: center;
+}
+
+img {
+	margin: 20px;
+}
